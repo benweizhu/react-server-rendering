@@ -1,1 +1,1 @@
-# react-server-rendering
+# Server Side Rendering React
